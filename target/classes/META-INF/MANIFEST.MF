@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Vinodh
+Class-Path: lib/junit-4.12.jar lib/hamcrest-core-1.3.jar
+Build-Jdk: 1.8.0_251
+Created-By: Maven Integration for Eclipse
+Main-Class: com.simplilearn.workshop.HelloWorld
+
